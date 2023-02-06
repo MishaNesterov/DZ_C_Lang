@@ -49,3 +49,4 @@ for (int i = 1; i < a.Length; i++)
 int result1 = Convert.ToInt32((maxnum - minnum) * 100);
 double result = Convert.ToDouble(result1);
 Console.Write(" -> " + result / 100); 
+ы
